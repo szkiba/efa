@@ -21,7 +21,7 @@ The **efa** library enables setting go flag values ​​from environment variab
 
 ### Usage
 
-```go file=example_bind_test.go
+```go file=example_bind_linux_test.go
 package efa_test
 
 import (
